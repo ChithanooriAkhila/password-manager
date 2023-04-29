@@ -1,0 +1,11 @@
+.main-container {
+  background-color: #9ba9eb;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.website-logo {
+  /* width: 150px; */
+  height: 50px;
+}
